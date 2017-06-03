@@ -1,0 +1,16 @@
+a{
+	color:6ab47b;
+}
+header{
+	background:#6ab47b;============±³¾°ÑÕÉ«
+	border-color:#559A68;================±ß¿òÑÕÉ«
+}
+h1,h2{
+	color:#fff;
+}
+nav{
+	background:#559A68;
+}
+nav a{
+	color:#fff;
+}

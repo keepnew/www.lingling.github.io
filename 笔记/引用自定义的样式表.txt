@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+		<link rel="stylesheet" href="css/normalize.css">===================引用当前目录下已存在的样式
+	</head>
+	<body>

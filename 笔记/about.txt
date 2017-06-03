@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/responsive.css">
+	</head>
+	<body>
+		<header>
+			<a href = "index.html" id="logo">
+				<h1>To be with you in a city</h1>
+				<h2>every day</h2>
+			</a>
+			<nav>
+				<ul>
+					<li><a href = "index.html" >Start</a></li>
+				    <li><a href = "about.html" class = "123">About</a></li>
+					<li><a href = "contact.html">Future</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div id="wrapper">
+			<section>
+				<img src ="img/psb.jpg"  alt="www.lingling" class="profile-photo">
+				<h3>about</h3>
+				<p>我说你是人间的四月天，</p>
+				<p>笑声点亮了四面风；</p>
+				<p>轻灵在春的光艳中交舞着变。</p>
+				<p>你是四月早天里的云烟，</p>
+				<p>黄昏吹着风的软，</p>
+				<p>星子在无意中闪，细雨点洒在花前。</p>
+				<p>你是一树一树的花开，是燕</p>
+				<p>在梁间呢喃，你是爱，是暖，</p>
+				<p>是希望，你是人间的四月天！</p>
+			</section>
+			<footer>
+				<a href="http://twitter"><img src="img/shuixin.jpg" alt="shuixin logo" width="4134" height="4134" class="social-icon"></a>
+				<a href="http://twitter"><img src="img/twitter-wrap.png" alt="twitter logo" width="60" height="60" class="social-icon"></a>
+				<p>&copy;2017 -2017的这些时光</p>
+			</footer>
+		</div>
+	</body>
+</html>   

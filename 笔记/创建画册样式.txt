@@ -1,0 +1,23 @@
+
+
+<ul id="gallery">
+
+</ul>					
+
+/********************************* 
+PAGE YI
+ ********************************/
+ 
+ #gallery{
+ 	margin:0;
+	padding:0;
+	list-style:none;
+ }
+ 
+ #gallery li{
+ 	float:left;/*¸¡£º×ó*/
+	width:45%;
+	margin:2.5%;/*±ß¾à*/
+	background-color:#f5f5f5;
+	color:#bdc3c7;
+ }

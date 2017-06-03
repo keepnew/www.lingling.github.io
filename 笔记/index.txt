@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/responsive.css">
+	</head>
+	<body>
+		<header>
+			<a href = "index.html" id="logo">
+				<h1>To be with you in a city</h1>
+				<h2>every day</h2>
+			</a>
+			<nav>
+				<ul>
+					<li><a href = "index.html" class = "123">Start</a></li>
+				    <li><a href = "about.html">About</a></li>
+					<li><a href = "contact.html">Future</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div id="wrapper">
+			<section>
+				<ul id="gallery">
+					<li>
+						<a href = "img/psbeP4PUPLNS.jpg">
+							<img src="img/psbeP4PUPLNS.jpg" alt="">
+							<p>昭化古城</p>
+						</a>
+					</li>
+					<li>
+						<a href = "img/fash.jpg">
+							<img src="img/fash.jpg" alt="">
+							<p>千佛崖</p>
+						</a>
+					</li>
+					<li>
+						<a href = "img/shidi.jpg">
+							<img src="img/shidi.jpg" alt="">
+							<p>南山湿地</p>
+						</a>
+					</li>
+					<li>
+						<a href = "img/fengge2.jpg">
+							<img src="img/fengge2.jpg" alt="">
+							<p>未名楼</p>
+						</a>
+					</li>
+					<li>
+						<a href = "img/jianmen.jpg">
+							<img src="img/jianmen.jpg" alt="">
+							<p>剑门关</p>
+						</a>
+					</li>
+				</ul>
+			</section>
+			<footer>
+				<a href="http://twitter"><img src="img/shuixin.jpg" alt="shuixin logo" width="4134" height="4134" class="social-icon"></a>
+				<a href="http://twitter"><img src="img/twitter-wrap.png" alt="twitter logo" width="60" height="60" class="social-icon"></a>
+				<p>&copy;2017 -2017的这些时光</p>
+		  </footer>
+		</div>
+	</body>
+</html>   

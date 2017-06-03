@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>-------<title>可以让我们在搜索结果和浏览器标签中更改页面的标题
+	</head>
+	<body>
+		<header>--------头元素
+			<h1>I LOVE fengge</h1>----------一级标题
+			<h2>every day</h2>---------二级标题
+		</header>
+		<section>-------页面内容的结构
+			<p>这里是画册</p>------占位符（<p>表示换行）
+		</section>
+		<footer>-----版权
+			<p>&copy;2017 四川信息</p>
+		</footer>
+	</body>
+</html>   

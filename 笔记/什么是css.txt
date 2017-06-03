@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+		<link rel="stylesheet" href="css/normalize.css">
+		<style>
+			footer{============================================footer元素的字体为白色，背景为橙色
+				color: white;
+				background-color:orange;
+			}
+		</style>
+		<style>
+			nav a{=========================================导航<nav>下的<a>标签的属性发生变化
+				color: white;
+				background-color:orange;
+			}
+		</style>
+	</head>

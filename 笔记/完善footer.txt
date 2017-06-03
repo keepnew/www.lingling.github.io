@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+	</head>
+	<body>
+		<header>
+			<a href = "index.html">
+				<h1>I LOVE fengge</h1>
+				<h2>every day</h2>
+			</a>
+			<nav>====================导航中应使用<nav>元素
+				<ul>
+					<li><a href = "index.html">yi</a></li>
+				    <li><a href = "about.html">About</a></li>
+					<li><a href = "contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<ul>
+				<li>
+					<a herf = "img/numbers-01.jpg">
+						<img src="img/numbers-01.jpg" alt="">=========src属性指定了<img>元素的文件路径
+						<p>c++</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-02.jpg">
+						<img src="img/numbers-02.jpg" alt="">
+						<p>githup</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-06.jpg">
+						<img src="img/numbers-06.jpg" alt="">
+						<p>python</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-09.jpg">
+						<img src="img/numbers-09.jpg" alt="">
+						<p>php</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-12.jpg">
+						<img src="img/numbers-12.jpg" alt="">
+						<p>java</p>
+					</a>
+				</li>
+			<ul>
+		</section>
+		<footer>
+			<a href="http://twitter"><img src="img/twitter-wrap.png" alt="twitter logo"></a>
+			<a href="http://facebook"><img src="img/facebook-wrap.png" alt="facebook logo"></a>
+			<p>&copy;2017 四川信息</p>
+		</footer>
+	</body>
+</html>   

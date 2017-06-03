@@ -1,0 +1,216 @@
+/********************************* 
+GENERAI(通用)
+ ********************************/
+ 
+body{
+	font-family:"华文行楷";
+}
+
+
+
+#wrapper{
+	max-width:940px;/*像素是一个绝对的单位*/
+	margin:0 auto;
+	padding:0 5%/*百分比是一个相对的单位*/
+}
+
+
+a{
+	text-decoration:none;
+}
+
+img{
+	max-width:100%;/*全局图像的设置，图像随屏幕而变化*/
+	
+}
+
+h3{
+	margin:0 0 1em 0;/*清除边距*/
+}
+
+
+/********************************* 
+HEADING（标题）
+ ********************************/
+ 
+ header{
+ 	float:left;
+	margin:0 0 30px 0;/*顶部，右边，底部，左边*/
+	padding:5px 0 0 0;
+	width:100%;
+ }
+ 
+ #logo{
+	text-align:center;
+	margin:0;
+}
+
+h1{
+	font-family:"华文行楷"/*字体家族*/
+	margin:15px 0;/*边缘像素15*/
+	font-size:1.75em;/*字体大小为可变化的（em）*/
+	font-weight:normal;/*字体加粗：正常的*/
+	line-height:0.8em;/*线高度*/
+}
+
+h2{
+	font-size:0.75em;
+	margin:-5px 0 0;/*第一个值为顶部的边距，为负数使得左右两边的字距他近。第二个值表示左右两侧的边距，第三个值表示底部的边距*/
+	font-weight:normal;
+}
+
+ /********************************* 
+NAVGATION(航行)
+ ********************************/
+nav{
+	text-align:center;
+	padding:10px 0;
+	margin:20px 0 0;
+}
+
+nav ul{
+	list-style:none;/*从无序列表中删除项目符号*/
+	margin:0 10px;
+	padding:0;
+}
+
+nav li{
+	display:inline-block;/*允许列表水平显示*/
+}
+
+nav a{
+	font-weight:800;
+	padding:15px 10px;/*有更多的填充*/
+}
+
+/********************************* 
+FOOTER
+ ********************************/
+ 
+ footer{
+ 	font-size:0.75em;
+	text-align:center;
+	clear:both;/*消除底部logo的footer的浮动属性*/
+	padding-top:50px;
+	color:#ccc;
+ }
+ 
+ .social-icon{/*把底部logo的尺寸变小*/
+ 	width:20px;
+	height:20px;
+	margin:0.5px;
+ }
+ 
+ 
+ /********************************* 
+PAGE YI
+ ********************************/
+ 
+ #gallery{
+ 	margin:0;
+	padding:0;
+	list-style:none;
+ }
+ 
+ #gallery li{
+ 	float:left;/*浮：左*/
+	width:45%;
+	margin:2.5%;/*边距*/
+	background-color:#f5f5f5;
+	color:#bdc3c7;
+ }
+ 
+ #gallery li a p{
+ 	margin:0;
+	padding:5%;
+	font-size:0.75em;
+	color:#bdc3c7;
+ }
+
+
+ /********************************* 
+PAGE about
+ ********************************/
+ 
+ .profile-photo{
+ 	display:block;/*显示：块*/
+	max-width:250px;/*最大宽度*/
+	margin:0 auto 40px;/*边缘*/
+	border-radius:30;/*边界半径(效果为圆)*/
+ }
+ 
+ 
+  /********************************* 
+PAGE CONTACT
+ ********************************/
+ 
+ .contact-info{
+ 	list-style:none;
+	padding:0;
+	margin:0;
+	font-size:0.9em;
+ }
+ 
+ .contact-info a{
+ 	display:block;/*每个图像都将占据空间*/
+	min-height:20px;/*最小高度*/
+	background-repeat:no-repeat;/*背景重复只显示一次（不重复）*/
+	background-size:20px 20px;/**/
+	padding:0 0 0 30px;/**/
+	margin:0 0 10px;/*底部10个像素的间距*/
+ }
+ 
+  .contact-info li.phone a{
+  	background-image:url('../img/phone.png');
+  }
+ 
+ .contact-info li.mail a{
+  	background-image:url('../img/mail.png');
+  }
+ 
+ .contact-info li.twitter a{
+  	background-image:url('../img/twitter.png');/*background可以设置背景的所有值，background-image只能设置图像*/
+  }
+  
+ /********************************* 
+COLORS(颜色)
+ ********************************/
+ 
+/**/
+	body{
+		background-color:#fff;
+		color:#999;
+	}
+
+/*绿色的标题*/
+header{
+	background:#6ab47b;
+	border-color:#559A68;
+}
+
+/*导航背景*/
+nav{
+	background:#559A68;
+}
+
+/*标志文字*/
+h1,h2{
+	color:#fff;
+}
+
+/*链接*/
+a{
+	color:6ab47b;
+}
+
+/*导航链接*/
+nav a{
+	color:#fff;
+	}
+	
+	/*选中的导航链接*/
+	nav a:hover{
+		color:#32673f;
+	}
+	
+	

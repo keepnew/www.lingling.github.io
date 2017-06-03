@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+	</head>
+	<body>
+		<header>
+			<a href = "index.html">-------1.为标题铆钉一个连接来去到另一个页面
+					              2.href = "index.html"超链接，引号中间是要连接的内容
+				<h1>I LOVE fengge</h1>
+				<h2>every day</h2>
+			</a>
+			<nav>--------导航元素，可以用它来包装任何类型的网站导航
+				<ul>-----无序列表（有序列表<ol></ol>）
+					<li><a href = "index.html">yi</a></li>-----1.列表项元素
+										   2.<a href = "index.html>"yi</a>为列表里的元素添加超链接连接到index主页面去
+				    <li><a href = "about.html">About</a></li>
+					<li><a href = "contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<p>这里是画册</p>
+		</section>
+		<footer>
+			<p>&copy;2017 四川信息</p>
+		</footer>
+	</body>
+</html>   

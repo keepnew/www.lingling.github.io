@@ -1,0 +1,36 @@
+nav a{
+	color:#fff;
+	}
+	nav a:hover{==============================hover的作用是当鼠标移动到导航字体上时，字体的颜色会发生变化
+		color:#32673f;
+	}
+
+
+
+
+
+
+<li><a href = "index.html" class = "123">yi</a></li>
+nav a.123,nav a:hover{
+		color:#00CC66;
+	}
+
+
+语法：<element class="value">
+
+实例
+在 HTML 文档中使用 class 属性：
+<html>
+<head>
+<style type="text/css">
+h1.intro {color:blue;}
+p.important {color:green;}
+</style>
+</head>
+
+<body>
+<h1 class="intro">Header 1</h1>
+<p>A paragraph.</p>
+<p class="important">Note that this is an important paragraph.</p>
+</body>
+</html>

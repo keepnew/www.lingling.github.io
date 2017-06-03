@@ -1,0 +1,27 @@
+@media screen and(min-width:480px){/*比480个像素更大的设备会应用{}内的样式*/
+
+/********************************* 
+TWO COLUMN LAYOUR
+ ********************************/
+ body{
+ 	background:navy;
+ }
+ 	#pramary{
+		width:50%;
+		float:left;
+	}
+	
+	#secondary{
+		width:40%;
+		float:right;
+	}
+ 	
+	/********************************* 
+TWO COLUMN LAYOUR
+ ********************************/
+ 
+ #gallery li{
+ 	width:28.3333%;
+ }
+ 
+}

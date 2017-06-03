@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+	</head>
+	<body>
+		<header>
+			<a href = "index.html">
+				<h1>I LOVE fengge</h1>
+				<h2>every day</h2>
+			</a>
+			<nav>
+				<ul>
+					<li><a href = "index.html">yi</a></li>
+				    <li><a href = "about.html">About</a></li>
+					<li><a href = "contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<ul>
+				<li>
+					<a herf = "img/numbers-01.jpg">=====设定一个超链接，当点击图片时连接到源图片
+						<img src = "img/numbers-01.jpg" alt="">
+						<p>c++</p>===========添加了一个文件的说明
+					</a>
+				</li>
+			<ul>
+		</section>
+		<footer>
+			<p>&copy;2017 四川信息</p>
+		</footer>
+	</body>
+</html>   
+
+//////////////////////////////////////分割/////////////////////////////////////////////
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset = "utf-8">
+		<title>fengge</title>
+	</head>
+	<body>
+		<header>
+			<a href = "index.html">
+				<h1>I LOVE fengge</h1>
+				<h2>every day</h2>
+			</a>
+			<nav>
+				<ul>
+					<li><a href = "index.html">yi</a></li>
+				    <li><a href = "about.html">About</a></li>
+					<li><a href = "contact.html">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<ul>
+				<li>
+					<a herf = "img/numbers-01.jpg">
+						<img src = "img/numbers-01.jpg" alt="">
+						<p>c++</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-02.jpg">
+						<img src = "img/numbers-02.jpg" alt="">
+						<p>githup</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-06.jpg">
+						<img src = "img/numbers-06.jpg" alt="">
+						<p>python</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-09.jpg">
+						<img src = "img/numbers-09.jpg" alt="">
+						<p>php</p>
+					</a>
+				</li>
+				<li>
+					<a herf = "img/numbers-12.jpg">
+						<img src = "img/numbers-12.jpg" alt="">
+						<p>java</p>
+					</a>
+				</li>
+			<ul>
+		</section>
+		<footer>
+			<p>&copy;2017 四川信息</p>
+		</footer>
+	</body>
+</html>   
